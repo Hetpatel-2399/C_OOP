@@ -1,6 +1,6 @@
 # C++ Object Oriented Programming (OOP)
 
-> User Interface Design for Chesse Game.
+> C++ object-oriented software to assemble objects on an assembly line and then register them based on the serial number of the package.
 ---
 ### Table of contents
 
